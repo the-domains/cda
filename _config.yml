@@ -1,0 +1,14 @@
+layout_spectrum: 0.1417891785968095
+typography_spectrum: 0.6172006705310196
+color:
+  brandStrength: 0.9296376702841371
+  lightness: 0.3349461695179343
+  saturation: 0.3263479864690453
+  rhythmicContrast: 0.9973442531190813
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: CdA
